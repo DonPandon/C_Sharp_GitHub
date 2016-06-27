@@ -6,8 +6,9 @@
         xmlns:local="clr-namespace:WpfApplication1"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="164" Margin="93,55,0,0" Stroke="Black" VerticalAlignment="Top" Width="341"/>
 
+    <Grid Background="#FFB48989">
+        <Label x:Name="label" Content="PRIMER WPF" HorizontalAlignment="Left" Margin="112,31,0,0" VerticalAlignment="Top" Width="299"/>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="165,179,0,0" VerticalAlignment="Top" Width="179" Height="50" Background="{x:Null}" BorderBrush="#FF804040"/>
     </Grid>
 </Window>
