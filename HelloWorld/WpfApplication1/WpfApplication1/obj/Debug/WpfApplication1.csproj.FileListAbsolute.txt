@@ -1,1 +1,2 @@
 C:\Users\might\OneDrive\Program Languages\C#\HelloWorld\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\HelloWorld\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
