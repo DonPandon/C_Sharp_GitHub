@@ -1,0 +1,6 @@
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\CelciusToFarenheit\CelciusToFarenheit\CelciusToFarenheit\bin\Debug\CelciusToFarenheit.exe.config
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\CelciusToFarenheit\CelciusToFarenheit\CelciusToFarenheit\bin\Debug\CelciusToFarenheit.exe
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\CelciusToFarenheit\CelciusToFarenheit\CelciusToFarenheit\bin\Debug\CelciusToFarenheit.pdb
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\CelciusToFarenheit\CelciusToFarenheit\CelciusToFarenheit\obj\Debug\CelciusToFarenheit.csprojResolveAssemblyReference.cache
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\CelciusToFarenheit\CelciusToFarenheit\CelciusToFarenheit\obj\Debug\CelciusToFarenheit.exe
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\CelciusToFarenheit\CelciusToFarenheit\CelciusToFarenheit\obj\Debug\CelciusToFarenheit.pdb
