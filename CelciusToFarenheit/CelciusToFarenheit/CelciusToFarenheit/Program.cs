@@ -48,12 +48,11 @@ namespace CelciusToFarenheit
 
                 }
 
-
                 if (input == 2)
                 {
                     Console.Write("::Value to convert: ");
                     temporal = Console.ReadLine();
-                    if (double.TryParse(temporal, out conversion))
+                    if (double.TryParse(temporal, out conversion))  //method used to test input
                     {
                         conversion = (5.0 / 9.0) * (conversion - 32);
                         Console.WriteLine($"Value converted: {conversion} °C");
@@ -63,9 +62,9 @@ namespace CelciusToFarenheit
                 }
 
 
-                Console.ReadKey();
+                Console.ReadKey();  //get a hold on the screen
 
-            } while (input != 3);
+            } while (input != 3);   //screen format
         }
     }
 }
