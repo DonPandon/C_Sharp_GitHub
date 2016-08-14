@@ -1,0 +1,1 @@
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\ShippingCostsWithDelegates\ShippingCosts\ShippingCosts\bin\Debug\ShippingCosts.exe.config

@@ -1,0 +1,6 @@
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\Delegates_firstLesson\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\Delegates_firstLesson\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\Delegates_firstLesson\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\Delegates_firstLesson\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\Delegates_firstLesson\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\Delegates_firstLesson\Delegates\Delegates\obj\Debug\Delegates.pdb

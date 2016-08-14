@@ -1,0 +1,6 @@
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\WoWCurrencyCalculator\WoWCurrencyCalculator\WoWCurrencyCalculator\bin\Debug\WoWCurrencyCalculator.exe.config
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\WoWCurrencyCalculator\WoWCurrencyCalculator\WoWCurrencyCalculator\bin\Debug\WoWCurrencyCalculator.exe
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\WoWCurrencyCalculator\WoWCurrencyCalculator\WoWCurrencyCalculator\bin\Debug\WoWCurrencyCalculator.pdb
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\WoWCurrencyCalculator\WoWCurrencyCalculator\WoWCurrencyCalculator\obj\Debug\WoWCurrencyCalculator.csprojResolveAssemblyReference.cache
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\WoWCurrencyCalculator\WoWCurrencyCalculator\WoWCurrencyCalculator\obj\Debug\WoWCurrencyCalculator.exe
+C:\Users\might\OneDrive\Program Languages\C_Sharp_GitHub\WoWCurrencyCalculator\WoWCurrencyCalculator\WoWCurrencyCalculator\obj\Debug\WoWCurrencyCalculator.pdb
